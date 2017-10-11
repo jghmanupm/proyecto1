@@ -1,0 +1,10 @@
+import java.util.Scanner
+public class proyecto1{
+  public static int grado(int acorde1){
+  //la idea es crear un string de 8 numeros cada uno elegido en funcion del anterior
+  //cada numero es el resultdo de sumarle 1 o 3(aleatorio) al anterior
+    int[] frase={ acorde1, acorde2, acorde2, acorde3,acorde4, acorde5, acorde6, acorde7, acorde8};
+    }
+  public static void siguiente(int x){
+      
+      
